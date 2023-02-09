@@ -73,6 +73,9 @@
 
 
 /* my section start here  */
+.my-plan-section h1{
+    font-size: 40px;
+}
 
 .my-plan-section{
     margin-top: 160px;
@@ -85,6 +88,13 @@
     justify-content: center;
     justify-content: space-around;
     text-align: center;
+}
+.my-plan-info-section h1 {
+    font-size: 30px;
+    padding: 20px 0px;
+}
+.my-plan-info-section p {
+    font-size: 30px;
 }
 
 /* my section end here  */
